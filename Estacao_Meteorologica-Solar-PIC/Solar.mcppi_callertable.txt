@@ -21,5 +21,19 @@ main
 		RES032
 		SETFOV32
 		SETFUN32
+	FloatToStr
+		strcpy
+		Compare_Double
+		Mul_32x32_FP
+			RES032
+			SETFOV32
+			SETFUN32
+		Div_8x8_U
+	Double2Int
+		SETIOV3224
 	Compare_Double
-	Equals_Double
+	Int2Double
+		NRM3232
+			RES032
+			SETFUN32
+			FIXSIGN32

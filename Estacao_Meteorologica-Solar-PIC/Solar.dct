@@ -205,7 +205,9 @@ b4
 b5
 b6
 b7
+bat
 bateria
+bateria1
 bcd2dec
 bcd2dec16
 bclie
@@ -1055,6 +1057,8 @@ sspov
 sspov_bit
 sspstat
 status
+str_bat
+str_ldr
 strcat
 strchr
 strcmp
