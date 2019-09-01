@@ -1,4 +1,4 @@
-# Writing all output to: C:\Users\fhmbe\Meus projetos\Esta????o-Meteorol??gica-FETIN-2019\Module_weather_station\HW solar\Sistema de energia.log
+# Writing all output to: C:\Users\fhmbe\Meus projetos\Estacao_Meteorologica-Solar\Solar-power-system-with-auxiliary-source\HW solar\Sistema de energia.log
 set pad_wire_necking on
 bus diagonal
 fanout 5
